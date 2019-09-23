@@ -58,6 +58,7 @@
      <Compile Include="Assets\a.cs" />
      <Compile Include="Assets\Scripts\GameEnding.cs" />
      <Compile Include="Assets\Scripts\LightFlicker.cs" />
+     <Compile Include="Assets\Scripts\Observer.cs" />
      <Compile Include="Assets\Scripts\Outliner.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
