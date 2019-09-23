@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\Observer.cs" />
      <Compile Include="Assets\Scripts\Outliner.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\WaypointPatrol.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <None Include="Assets\Shaders\SpookyStandardShader.shader" />
      <None Include="Assets\Shaders\PlaneFog.shader" />
